@@ -15,7 +15,7 @@ import com.badlogic.gdx.graphics.OrthographicCamera;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 
 /**
- * Главный класс игры
+ * Главный класс игрыfxf
  * 
  * @author mypc
  */
